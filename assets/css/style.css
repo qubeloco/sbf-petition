@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Deine Custom Styles hier
+body {
+  background-color: #f8f9fa;
+}
+
+.page-header {
+  background: linear-gradient(135deg, #0066cc 0%, #004999 100%);
+}
+
+.btn {
+  margin: 10px 5px;
+  padding: 12px 30px;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+.btn-primary {
+  background-color: #ff5733;
+  color: white;
+  
+  &:hover {
+    background-color: #e53e20;
+  }
+}
