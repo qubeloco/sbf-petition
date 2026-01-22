@@ -23,31 +23,11 @@ Die Bootsfahrschule Poseidon Saarlouis hat die Petition gestartet, jetzt kommt e
 
 Das Bundesverkehrsministerium plant, den bewährten amtlichen Sportbootführerschein (SBF) abzuschaffen. Stattdessen sollen künftig nur noch Verbandsscheine gelten – von Verbänden, die deutlich weniger Qualitätskontrolle haben.
 
-### Weniger Qualität
+## Die drohenden Konsequenzen auf einen Blick
 
-Weniger standardisierte Prüfungen, weniger einheitliche Standards bundesweit.
-        
-### Weniger Zugänglichkeit
-
-Wohnortnahe Schulen müssen schließen. Schüler müssen 200+ km fahren für Kurse.
-
-### Weniger Sicherheit
-
-Unterschiedliche Standards bundesweit gefährden die Sicherheit auf deutschen Gewässern.
-     
-
-## Warum der SBF wichtig ist
-            
-### Sicherheit als Priorität
-
-Der SBF stellt sicher, dass Bootsführer einheitliche Sicherheitsstandards kennen und befolgen. Unterschiedliche Verbands-Systeme gefährden die Sicherheit auf deutschen Gewässern und machen Rettungsoperationen unpredictable.
-Der SBF ist seit Jahrzehnten bewährt und wird von internationalen Partnern anerkannt.
+![Konsequenzen](/assets/css/aufeinenblick.png)
                 
-### Arbeitsplätze schützen
-
-Die Petition wird bereits von über 150 Bootsfahrschulen unterstützt. Sie fürchten um ihre wirtschaftliche Existenz und die ihrer Mitarbeiter.  Viele kleinere, familiengeführte Schulen könnten nicht mit Verbänden konkurrieren.
-                
-### Ein bewährtes System schützen
+## Die Petition sagt ...
 
 Warum sollten wir ein System zerstören, das funktioniert? Der SBF ist nicht perfekt – er sollte reformiert werden, nicht abgeschafft.
 
@@ -98,8 +78,6 @@ Diese Petition hat das Potenzial, echte parlamentarische Aufmerksamkeit zu bekom
 Unterschreibe JETZT und teile die Petition mit deinen Freunden. 
 
 Wir brauchen mindestens die 25.000 Unterschriften für eine Bundestags-Anhörung. Besser mehr. 
-
-Du kannst Geschichte schreiben – jetzt!
 
 [JETZT PETITION UNTERSCHREIBEN](https://www.change.org/p/gegen-die-%C3%A4nderung-des-bootsf%C3%BChrerscheins)
      
