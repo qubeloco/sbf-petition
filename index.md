@@ -2,6 +2,12 @@
 layout: default
 title: Rettet den amtlichen SBF!
 ---
+**Disclaimer:** Diese Seite zur Unterstützung der Petition befindet sich aktuell im Aufbau und ist gerade ein persönliches Herzensthema von mir als aktive Seglerin, was ich in den kommenden Tagen vorantreiben möchte. Ich bin selbst im Besitz vom SBF See und Binnen, habe zeitweise im Segelverein bei der SBF Ausbildung unterstützt und kenne persönlich betroffene Segelschulen.
+
+Du möchtest die Kampagne zur Unterstützung der Petition aktiv mitgestalten? Dann melde dich bitte! 
+
+----
+Worum geht's?
 
 # Das Bootsführerschein-System steht auf dem Spiel
 
@@ -12,14 +18,6 @@ Werdet Teil der Bürgerbewegung für den Schutz des amtlichen Sportbootführersc
 Die Bootsfahrschule Poseidon Saarlouis hat die Petition gestartet, jetzt kommt es auf uns alle an!
 
 [JETZT PETITION UNTERSCHREIBEN](https://www.change.org/p/gegen-die-%C3%A4nderung-des-bootsf%C3%BChrerscheins)
-
-## Die Zahlen
-
-- **500.000+** Betroffene Wassersportler
-- **2.000+** Bootsfahrschulen in Gefahr
-- **10.000+** Arbeitsplätze auf dem Spiel
-
----
 
 ## Was ändert sich? 
 
@@ -47,14 +45,15 @@ Der SBF ist seit Jahrzehnten bewährt und wird von internationalen Partnern aner
                 
 ### Arbeitsplätze schützen
 
-Die Petition wird bereits von über 150 Bootsfahrschulen unterstützt. Sie fürchten um ihre wirtschaftliche Existenz und die ihrer Mitarbeiter. 
-Viele kleinere, familiengeführte Schulen könnten nicht mit großen Verbänden konkurrieren. Die Wassersport-Branche beschäftigt direkt über 10.000 Menschen in Deutschland – plus indirekte Arbeitsplätze in Gastronomie, Tourismus und Einzelhandel.
+Die Petition wird bereits von über 150 Bootsfahrschulen unterstützt. Sie fürchten um ihre wirtschaftliche Existenz und die ihrer Mitarbeiter.  Viele kleinere, familiengeführte Schulen könnten nicht mit Verbänden konkurrieren.
                 
 ### Ein bewährtes System schützen
 
 Warum sollten wir ein System zerstören, das funktioniert? Der SBF ist nicht perfekt – er sollte reformiert werden, nicht abgeschafft.
+
 Die Petition fordert nicht: Keine Reformen. 
-Die Petition fordert: Reform mit beibehaltung des amtlichen SBF.
+
+Die Petition fordert: Reform UND Beibehaltung des amtlichen SBF.
 
 **Verbessern ja, abschaffen nein.**
                     
@@ -69,7 +68,7 @@ Das ist schon gut. Wir brauchen aber noch deutlich mehr Unterschriften!
 
 - 10.000 Unterschriften bis Ende Februar 2026
 - 25.000 Unterschriften bis Ostern 2026
-- Großes Ziel: 50.000+ für parlamentarische Anhörung im Bundestag!
+- Großes Ziel: 50.000+ zur parlamentarischen Anhörung im Bundestag!
 
 ## Häufig gestellte Fragen
             
@@ -81,9 +80,7 @@ Aber: Die EU verbietet den SBF nicht explizit. Es gibt bessere Wege, die EU-Ziel
 ### Wie kann ich konkret helfen?
 - Unterschreibe die Petition (Link oben)
 - Teilen die Petition mit Familie, Freunden und Wassersport-Gruppen.
-- Kontaktieren die lokalen Bundestagsabgeordneten.
-- Trete unserem Newsletter bei für regelmäßige Updates.
-- Als Segelschulbetreiber: Trete unserem Netzwerk bei (E-Mail unten)
+- Kontaktiere die lokalen Bundestagsabgeordneten.
 
 ### Wann wird über die Reform abgestimmt?
 Das Rechtsetzungsverfahren sollte Ende 2025 / Anfang 2026 abgeschlossen sein. 
@@ -94,33 +91,15 @@ In den nächsten 3-6 Monaten wird die parlamentarische Phase entscheidend sein.
 Ja, völlig legal. Dies ist eine Petition nach § 77 des Bundestag-Petitionsgesetzes (BeurkG). 
 20.000 Unterschriften führen automatisch zu einer öffentlichen Anhörung im Bundestag-Petitionsausschuss. 
 Diese Petition hat das Potenzial, echte parlamentarische Aufmerksamkeit zu bekommen.
-
-### Ich bin Schulbetreiber – was kann ich noch tun?
-Unterschreiben Sie, kontaktieren Sie andere Schulen, und treten Sie unserem Netzwerk bei.
-
-Wir koordinieren gemeinsame Stellungnahmen zum Referentenentwurf und erarbeiten Alternativen zur Abschaffung. 
-Schreiben Sie uns: \<Platzhalter>
-
-
-## Das sagen Betroffene
-
-> Platz für Zitate
   
 
 ## Deine Stimme zählt!
 
 Unterschreibe JETZT und teile die Petition mit deinen Freunden. 
+
 Wir brauchen mindestens die 25.000 Unterschriften für eine Bundestags-Anhörung. Besser mehr. 
+
 Du kannst Geschichte schreiben – jetzt!
 
+[JETZT PETITION UNTERSCHREIBEN](https://www.change.org/p/gegen-die-%C3%A4nderung-des-bootsf%C3%BChrerscheins)
      
-    <a href="https://www.change.org/p/gegen-die-%C3%A4nderung-des-bootsf%C3%BChrerscheins" target="_blank" class="btn btn-primary">
-                    CHANGE.ORG UNTERSCHREIBEN </a>
-    <a href="https://www.openpetition.de/petition/online/erhalt-der-wohnortnahen-ausbildung-und-pruefung-im-rahmen-der-seeschifffahrtsordnung" target="_blank" class="btn btn-secondary">
-                    OPENPETITION UNTERSCHREIBEN </a>
-    
-## Bleib auf dem neuesten Stand
-
-Abonniere unseren Newsletter für wöchentliche Updates zu Unterschriftszahlen, Medienberichterstattung und Kampagnen-News.
-                
-Wir respektieren deine Privatsphäre. Keine Spam, nur Petitions-Updates.
