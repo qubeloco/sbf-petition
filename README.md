@@ -1,2 +1,2 @@
 # sbf-petition
-Kampagnenkonzept zur Petition "Gegen die Änderung des Bootsführerscheins"
+Eine Seite zur Unterstützung der Petition "Gegen die Änderung des Bootsführerscheins"
