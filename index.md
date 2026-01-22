@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Home
+title: Rettet den amtlichen SBF!
 ---
 
 # Das Bootsführerschein-System steht auf dem Spiel
 
 Eine Reform, die alles ändert – wenn wir nicht handeln.
+
 Werdet Teil der Bürgerbewegung für den Schutz des amtlichen Sportbootführerscheins!
 
-[JETZT UNTERSCHREIBEN](https://www.change.org/p/gegen-die-%C3%A4nderung-des-bootsf%C3%BChrerscheins){: .btn .btn-primary}
-[Mehr erfahren](#about-problem){: .btn .btn-secondary}
+Die Bootsfahrschule Poseidon Saarlouis hat die Petition gestartet, jetzt kommt es auf uns alle an!
+
+[JETZT PETITION UNTERSCHREIBEN](https://www.change.org/p/gegen-die-%C3%A4nderung-des-bootsf%C3%BChrerscheins)
 
 ## Die Zahlen
 
@@ -21,8 +23,7 @@ Werdet Teil der Bürgerbewegung für den Schutz des amtlichen Sportbootführersc
 
 ## Was ändert sich? 
 
-Das Bundesverkehrsministerium plant, den bewährten amtlichen Sportbootführerschein (SBF) abzuschaffen.
-Stattdessen sollen künftig nur noch Verbandsscheine gelten – von Verbänden, die deutlich weniger Qualitätskontrolle haben.
+Das Bundesverkehrsministerium plant, den bewährten amtlichen Sportbootführerschein (SBF) abzuschaffen. Stattdessen sollen künftig nur noch Verbandsscheine gelten – von Verbänden, die deutlich weniger Qualitätskontrolle haben.
 
 ### Weniger Qualität
 
@@ -41,23 +42,21 @@ Unterschiedliche Standards bundesweit gefährden die Sicherheit auf deutschen Ge
             
 ### Sicherheit als Priorität
 
-Der SBF stellt sicher, dass Bootsführer einheitliche Sicherheitsstandards kennen und befolgen. 
-Unterschiedliche Verbands-Systeme gefährden die Sicherheit auf deutschen Gewässern und machen Rettungsoperationen unpredictable.
+Der SBF stellt sicher, dass Bootsführer einheitliche Sicherheitsstandards kennen und befolgen. Unterschiedliche Verbands-Systeme gefährden die Sicherheit auf deutschen Gewässern und machen Rettungsoperationen unpredictable.
 Der SBF ist seit Jahrzehnten bewährt und wird von internationalen Partnern anerkannt.
                 
 ### Arbeitsplätze schützen
 
 Die Petition wird bereits von über 150 Bootsfahrschulen unterstützt. Sie fürchten um ihre wirtschaftliche Existenz und die ihrer Mitarbeiter. 
-Viele kleinere, familiengeführte Schulen könnten nicht mit großen Verbänden konkurrieren.
-Die Wassersport-Branche beschäftigt direkt über 10.000 Menschen in Deutschland – plus indirekte Arbeitsplätze in Gastronomie, Tourismus und Einzelhandel.
+Viele kleinere, familiengeführte Schulen könnten nicht mit großen Verbänden konkurrieren. Die Wassersport-Branche beschäftigt direkt über 10.000 Menschen in Deutschland – plus indirekte Arbeitsplätze in Gastronomie, Tourismus und Einzelhandel.
                 
 ### Ein bewährtes System schützen
 
 Warum sollten wir ein System zerstören, das funktioniert? Der SBF ist nicht perfekt – er sollte reformiert werden, nicht abgeschafft.
 Die Petition fordert nicht: Keine Reformen. 
-Die Petition fordert: Nicht abschaffen. 
+Die Petition fordert: Reform mit beibehaltung des amtlichen SBF.
 
-**Verbessern ja, zerstören nein.**
+**Verbessern ja, abschaffen nein.**
                     
 ## Die Petition wächst ...
             
@@ -94,13 +93,13 @@ In den nächsten 3-6 Monaten wird die parlamentarische Phase entscheidend sein.
 ### Ist die Petition legal?
 Ja, völlig legal. Dies ist eine Petition nach § 77 des Bundestag-Petitionsgesetzes (BeurkG). 
 20.000 Unterschriften führen automatisch zu einer öffentlichen Anhörung im Bundestag-Petitionsausschuss. 
-Diese Petition hat das Potenzial, echte parlamentarische Aufmerksamkeit zu bekommen.</p>
+Diese Petition hat das Potenzial, echte parlamentarische Aufmerksamkeit zu bekommen.
 
 ### Ich bin Schulbetreiber – was kann ich noch tun?
 Unterschreiben Sie, kontaktieren Sie andere Schulen, und treten Sie unserem Netzwerk bei.
 
 Wir koordinieren gemeinsame Stellungnahmen zum Referentenentwurf und erarbeiten Alternativen zur Abschaffung. 
-Schreiben Sie uns: <a href="mailto:info@sbf-petition.de">info@sbf-petition.de</a></p>
+Schreiben Sie uns: \<Platzhalter>
 
 
 ## Das sagen Betroffene
